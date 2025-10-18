@@ -1,0 +1,31 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+
+# Virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
