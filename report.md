@@ -1,22 +1,4 @@
-For a detailed analysis with visualizations, see [Report.md](Report.md)
-
-Exactly! Name it **`Report.md`**. That way:
-
-* **`README.md`** stays as the main project overview.
-* **`Report.md`** can be your detailed business-style report with all charts, insights, and actionable recommendations.
-
-You can even link it from your README like:
-
-```markdown
-For a detailed analysis with visualizations, see [Report.md](Report.md)
-```
-
-This keeps the repo clean and professional, while giving managers or recruiters an easy path to dive into your results.
-
-If you want, I can **draft a ready-to-use template for `Report.md`** similar to the README style but more business-focused.
-
-
-
+For a detailed analysis with visualizations,check out [Report.md](Report.md)
 
 # Spotify Song Performance Report
 
